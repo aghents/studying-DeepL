@@ -1,1 +1,1 @@
-# DeepLearning-Study
+# Studying Deep Learning
